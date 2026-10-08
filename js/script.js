@@ -650,7 +650,7 @@ function downloadReceipt() {
     
     // Create receipt text
     let receiptText = `
-================== Ajay stationary ==================
+================== Kritika Stationary ==================
                     ORDER RECEIPT
 ==========================================================
 
@@ -702,12 +702,12 @@ Payment Method: ${
 Estimated Delivery: ${getEstimatedDeliveryDate()}
 
 ---------- CONTACT INFORMATION ----------
-Name : Ajay kumar singh
-Email: Ajayjsr4678@gmail.com
+Name : Kritika Kumari
+Email: kritikakumari800002@gmail.com
 Phone: 8935854474
-Address: Shanti om, Bishannagar zone road no. 2 B, Shuv Mandir road. Excel India model school more, Jamshedpur 831004 East Singhbhum, Jharkhand
+Address: House No. 265/66, Navchetna Path, Shivpuri, Anishabad, Patna, Bihar, 800002
 
-Thank you for shopping with Ajay stationary!
+Thank you for shopping with Kritika Stationary!
 ==========================================================
 `;
 

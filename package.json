@@ -1,7 +1,7 @@
 {
-  "name": "ajay-stationary",
+  "name": "kritika-stationary",
   "version": "1.0.0",
-  "description": "Premium Online Stationery Shop - Ajay stationary",
+  "description": "Premium Online Stationery Shop - Kritika Stationary",
   "main": "index.html",
   "scripts": {
     "start": "echo 'Open index.html in your browser'",
@@ -12,7 +12,7 @@
     "online-shop",
     "ecommerce"
   ],
-  "author": "Ajay stationary",
+  "author": "Kritika Kumari",
   "license": "MIT",
   "repository": {
     "type": "git",
