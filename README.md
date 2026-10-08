@@ -211,7 +211,7 @@ The `netlify.toml` file includes:
 
 **Kritika Stationary**
 - Email: kritikakumari800002@gmail.com
-- Phone: 8935854474
+- Phone: +918271370582
 - Address: House No. 265/66, Navchetna Path, Shivpuri, Anishabad, Patna, Bihar, 800002
 - Hours: Monday to Saturday, 10:00 AM - 7:00 PM IST
 
