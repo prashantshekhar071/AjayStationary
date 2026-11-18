@@ -1,4 +1,4 @@
-# Kritika Stationary - Premium Online Stationery Shop
+# Sumit Stationary - Premium Online Stationery Shop
 
 ## Overview
 A fully functional, professional online stationery shop website with complete e-commerce features including product catalog, shopping cart, checkout system, and order tracking.
@@ -82,7 +82,7 @@ A fully functional, professional online stationery shop website with complete e-
 ## Project Structure
 
 ```
-kritika-stationary/
+sumit-stationary/
 ├── index.html           # Main HTML file
 ├── css/
 │   └── style.css        # Main stylesheet
@@ -134,14 +134,14 @@ Then visit `http://localhost:8000` (or shown port) in your browser.
 
 1. **Initialize Git Repository** (if not done):
 ```bash
-cd kritika-stationary
+cd sumit-stationary
 git init
 ```
 
 2. **Add all files**:
 ```bash
 git add .
-git commit -m "Initial commit: Kritika Stationary e-commerce site"
+git commit -m "Initial commit: Sumit Stationary e-commerce site"
 ```
 
 3. **Push to GitHub**:
@@ -209,10 +209,10 @@ The `netlify.toml` file includes:
 
 ## Contact Information
 
-**Kritika Stationary**
-- Email: kritikakumari800002@gmail.com
-- Phone: +918271370582
-- Address: House No. 265/66, Navchetna Path, Shivpuri, Anishabad, Patna, Bihar, 800002
+- **Sumit Stationary**
+- Email: ksumit55245@gmail.com
+- Phone: 6202386340
+- Address: S/O Sanjit Tanti, Gram Taufir Gadhiya, Post Gadhiya, Thana Chautham, Ghorhia, PO: Garhiya, District Khagaria, Bihar - 851214
 - Hours: Monday to Saturday, 10:00 AM - 7:00 PM IST
 
 ## Browser Support
@@ -277,7 +277,7 @@ Contributions are welcome! Feel free to fork and submit pull requests.
 
 ## File Structure
 ```
-Kritika/
+SumitStationary/
 ├── index.html          # Main website file
 ├── css/
 │   └── style.css       # All styling

@@ -650,7 +650,7 @@ function downloadReceipt() {
     
     // Create receipt text
     let receiptText = `
-================== Kritika Stationary ==================
+================== Sumit Stationary ==================
                     ORDER RECEIPT
 ==========================================================
 
@@ -702,12 +702,12 @@ Payment Method: ${
 Estimated Delivery: ${getEstimatedDeliveryDate()}
 
 ---------- CONTACT INFORMATION ----------
-Name : Kritika Kumari
-Email: kritikakumari800002@gmail.com
-Phone: +918271370582
-Address: House No. 265/66, Navchetna Path, Shivpuri, Anishabad, Patna, Bihar, 800002
+Name : Sumit Kumar
+Email: ksumit55245@gmail.com
+Phone: 6202386340
+Address: S/O Sanjit Tanti, Gram Taufir Gadhiya, Post Gadhiya, Thana Chautham, Ghorhia, PO: Garhiya, District Khagaria, Bihar - 851214
 
-Thank you for shopping with Kritika Stationary!
+Thank you for shopping with Sumit Stationary!
 ==========================================================
 `;
 

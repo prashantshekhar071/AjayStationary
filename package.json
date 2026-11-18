@@ -1,7 +1,7 @@
 {
-  "name": "kritika-stationary",
+  "name": "sumit-stationary",
   "version": "1.0.0",
-  "description": "Premium Online Stationery Shop - Kritika Stationary",
+  "description": "Premium Online Stationery Shop - Sumit Stationary",
   "main": "index.html",
   "scripts": {
     "start": "echo 'Open index.html in your browser'",
@@ -12,7 +12,7 @@
     "online-shop",
     "ecommerce"
   ],
-  "author": "Kritika Kumari",
+  "author": "Sumit Kumar",
   "license": "MIT",
   "repository": {
     "type": "git",

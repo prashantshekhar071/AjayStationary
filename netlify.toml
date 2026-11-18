@@ -1,4 +1,4 @@
-# Netlify Configuration for Kritika Stationary
+# Netlify Configuration for Sumit Stationary
 
 [build]
   publish = "."
